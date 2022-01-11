@@ -112,16 +112,16 @@ We have a **ZERO TOLERANCE POLICY** for in-person or online harassment of any ki
 
 All HackSlash events will have designated a specific safety guideline with emergency and anti-abuse contacts at the event as well as online. These contacts will be posted prominently throughout the event, and in print and online materials. Event leaders are requested to speak at the event about the guidelines and to ask participants to review and agree to them when they sign up for the event.
 
-Once an incident has been investigated and a decision has been communicated to the relevant parties, all have the opportunity to appeal this decision by sending an email to [hackslash@nitp.ac.in](mailto:hackslash@nitp.ac.in).
+Once an incident has been investigated and a decision has been communicated to the relevant parties, all have the opportunity to appeal this decision by sending an email to [hackslashclub@nitp.ac.in](mailto:hackslashclub@nitp.ac.in).
 
 
 ## Reporting
 
-If you feel uncomfortable or think there may be a potential violation of the code of conduct, please report it immediately using one of the following methods. All reporters have the right to remain anonymous. Please use [hackslash@nitp.ac.in](mailto:hackslash@nitp.ac.in) to report.
+If you feel uncomfortable or think there may be a potential violation of the code of conduct, please report it immediately using one of the following methods. All reporters have the right to remain anonymous. Please use [hackslashclub@nitp.ac.in](mailto:hackslashclub@nitp.ac.in) to report.
 
 After receiving a concise description of your situation, we will review and determine the next steps. In addition to conducting any investigation, we can provide a range of resources, from a private consultation to other community resources. If you feel you have been unfairly accused of violating these guidelines, please follow the same reporting process.
 
-If you have any questions regarding these policies, please contact HackSlash by e-mail at [hackslash@nitp.ac.in](mailto:hackslash@nitp.ac.in).
+If you have any questions regarding these policies, please contact HackSlash by e-mail at [hackslashclub@nitp.ac.in](mailto:hackslashclub@nitp.ac.in).
 
 
 ## Attribution
