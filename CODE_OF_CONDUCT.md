@@ -1,2 +1,3 @@
 # HackSlash Developer Club
-# Community Guidelines and Code of Conduct
+
+## Community Guidelines and Code of Conduct
